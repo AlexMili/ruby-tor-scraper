@@ -15,7 +15,7 @@ ruby scraper.rb my/yaml/config/file.cfg
 ```
 
 ## How does it works
-This script read a file containing all new urls to fetch. The file has the following format :
+This script reads a file containing all new urls to fetch. The file has the following format :
 ```
 ----------- File's header -----------
 http://www.example.com/page1
