@@ -1,6 +1,8 @@
 # Ruby tor scraper
 This Ruby script use tor to scrap over the web.
 
+See [Scraptory](https://github.com/AlexMili/Scraptory) for a more advance version.
+
 ## Requirements
 - nokogiri
 - typhoeus
